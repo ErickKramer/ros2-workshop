@@ -20,12 +20,15 @@
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
 	"extensions": [
+		"2gua.rainbow-brackets",
 		"dotjoshjohnson.xml",
+		"eamodio.gitlens",
 		"zachflower.uncrustify",
 		"ms-azuretools.vscode-docker",
 		"ms-iot.vscode-ros",
 		"ms-python.python",
 		"ms-vscode.cpptools",
+		"oderwat.indent-rainbow",
 		"redhat.vscode-yaml",
 		"smilerobotics.urdf",
 		"streetsidesoftware.code-spell-checker",
